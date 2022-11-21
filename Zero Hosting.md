@@ -49,5 +49,5 @@
 Email: notzer0help@outlook.com
 Devs: ``</SmSm>#8700`` ``O²#1777``
 
-<a href="https://discord.gg/4Y8SyEU5K8"><img src="https://discord.com/api/guilds/869266167796207728/widget.png?style=banner3"></a>
+<a href="https://discord.gg/4Y8SyEU5K8"><img src="https://discord.com/api/guilds/869266167796207728/widget.png?style=banner1"></a>
 <a href="https://discord.gg/4Y8SyEU5K8" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>  <a href="mailto: notzero0@hotmail.com"> <img src="https://img.shields.io/badge/Outlook-145bcd?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /> </a>
