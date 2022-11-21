@@ -2,7 +2,7 @@
 
 **We Thank The Customers for Reading Our Privacy Policy, And We Assure All Customers That Their Data And Personal Information Will Be Completely Safe, Because We Are Responsible For Maintaining That Data And We Strive In Various Ways**
 
-# What Data We Store ?
+**__What Data We Store ?__**
 
 
 1.We We do not store user information and if it is stored, it will be deleted immediately
