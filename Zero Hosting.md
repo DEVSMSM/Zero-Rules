@@ -22,9 +22,9 @@
 
 -According to the person who uses the bot, when will his Projects Links Be Deleted
 
--hi
+-Or User Can Request To Deletion Data
 
-**Changes to This Privacy Policy:**
+**Changes To This Privacy Policy**
 
 -We May Revise This Privacy Policy At Any Time.
 
