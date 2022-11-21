@@ -22,11 +22,12 @@
 
 -According to the person who uses the bot, when will his Projects Links Be Deleted
 
--
-**Changes to This Privacy Policy:**
-- We May Revise This Privacy Policy At Any Time.
+-hi
 
-- These Changes Are Effective Immediately After They Are Posted On This Page.
+**Changes to This Privacy Policy:**
+-We May Revise This Privacy Policy At Any Time.
+
+-These Changes Are Effective Immediately After They Are Posted On This Page.
 
 2.If Any User Has Any Problem With The Bot Or Feels That The Bot Is Crashed Please Contact Support Immediately
 
