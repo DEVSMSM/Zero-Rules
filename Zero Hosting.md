@@ -22,7 +22,13 @@
 
 -According to the person who uses the bot, when will his Projects Links Be Deleted
 
-2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
+-
+**Changes to This Privacy Policy:**
+- We May Revise This Privacy Policy At Any Time.
+
+- These Changes Are Effective Immediately After They Are Posted On This Page.
+
+2.If Any User Has Any Problem With The Bot Or Feels That The Bot Is Crashed Please Contact Support Immediately
 
 3.We love Tell Any One Are Using A Bot We are responsible if anything happens to your server
 
