@@ -34,6 +34,12 @@
 
 -**No**, __We Do Not Sell and Share Any Data Stored by ZeroHosting__.
 
+**Can Users Request Deletion Thier Data ?**
+
+-Yes, Users Can Any Time To Request Deletion Thier Data.
+
+-Users Can Join Support Server Or Dm Me Or Contact With Email.
+
 2.If Any User Has Any Problem With The Bot Or Feels That The Bot Is Crashed Please Contact Support Immediately
 
 3.We love Tell Any One Are Using A Bot We are responsible if anything happens to your server
