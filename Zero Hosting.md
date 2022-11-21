@@ -8,7 +8,7 @@
 
 -The Monitor Store User ID  
 
-- Monitor [User ID, Url(And Url For Uptime To Keep it Online)
+-Monitor [User ID, Url(And Url For Uptime To Keep it Online)
 
 2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
 
