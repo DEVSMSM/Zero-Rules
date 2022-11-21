@@ -38,7 +38,7 @@
 
 -Yes, Users Can Any Time To Request Deletion Thier Data.
 
--Users Can Join Support Server Or Dm Me Or Contact With Email.
+-Users Can Join Support Server Or Dm Me Or Contact With Email For Deletion Thier Data.
 
 **Contact Us**
 
