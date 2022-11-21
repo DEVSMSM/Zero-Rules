@@ -18,6 +18,7 @@
 
 -Data Stored On Mongodb And Very Secure And Encrypted
 
+**__How Long We Store User Data ?__**
 
 2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
 
