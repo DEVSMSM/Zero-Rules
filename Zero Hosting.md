@@ -20,6 +20,8 @@
 
 **__How Long We Store User Data ?__**
 
+-According to the person who uses the bot, when will his Projects Links Be Deleted
+
 2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
 
 3.We love Tell Any One Are Using A Bot We are responsible if anything happens to your server
