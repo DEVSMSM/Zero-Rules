@@ -47,5 +47,5 @@
 -We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
 
 Email: notzer0help@outlook.com
-OwnerTags: ``</SmSm>#8700`` ``O²#1777``
+Devs:``</SmSm>#8700`` ``O²#1777``
 <a href="https://discord.gg/4Y8SyEU5K8" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
