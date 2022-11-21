@@ -4,7 +4,7 @@
 
 **__What Data We Store ?__**
  
-**``User(member) data:``**
+- **User(member) data:**
 
 -The Monitor Store User ID  
 
@@ -12,11 +12,11 @@
 
 **__Why We Store Data ?__**
 
-**``User(member) data:``**
+- **User(member) data:**
 
--We Store User ID Because To So Someone Can Monitor Url
+-We Store User ID Because To So Someone Can Monitor Their Projects
 
-- Data Stored On Mongodb 
+-Data Stored On Mongodb And Very Secure And Encrypted
 
 
 2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
