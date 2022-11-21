@@ -47,4 +47,4 @@
 -We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
 
 Email: notzer0help@outlook.com
-OwnerTag: </SmSm>#8700
+OwnerTag: ``</SmSm>#8700``
