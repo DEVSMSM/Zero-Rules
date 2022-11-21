@@ -1,6 +1,6 @@
 # Zero Hosting
 
-**We thank the customers for reading our privacy policy page, and we assure all customers that their data and personal information will be completely safe, because we are responsible for maintaining that data and we strive in various ways**
+**We Thank The Customers for Reading Our Privacy Policy, And We Assure All Customers That Their Data And Personal Information Will Be Completely Safe, Because We Are Responsible For Maintaining That Data And We Strive In Various Ways**
 
 1.We We do not store user information and if it is stored, it will be deleted immediately
 
