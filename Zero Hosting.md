@@ -3,9 +3,12 @@
 **We Thank The Customers for Reading Our Privacy Policy, And We Assure All Customers That Their Data And Personal Information Will Be Completely Safe, Because We Are Responsible For Maintaining That Data And We Strive In Various Ways**
 
 **__What Data We Store ?__**
+ 
+``User(member) data:``
 
+-The Monitor Store User ID  
 
-1.We We do not store user information and if it is stored, it will be deleted immediately
+- Monitor [User ID, Url(And Url For Uptime To Keep it Online)
 
 2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
 
