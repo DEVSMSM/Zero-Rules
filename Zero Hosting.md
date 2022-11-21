@@ -48,4 +48,4 @@
 
 Email: notzer0help@outlook.com
 OwnerTag: ``</SmSm>#8700``
-<a href="https://discord.gg/RMEQSbMtEk" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="https://discord.gg/4Y8SyEU5K8" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
