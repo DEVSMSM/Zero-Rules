@@ -32,7 +32,7 @@
 
 **Are We Sell Or Share Users Data ?**
 
--**No**, __We Do Not Sell and Share Any Data Stored by ZeroHosting__.
+-No, We Do Not Sell and Share Any Data Stored by ZeroHosting.
 
 **Can Users Request Deletion Thier Data ?**
 
@@ -40,12 +40,11 @@
 
 -Users Can Join Support Server Or Dm Me Or Contact With Email.
 
-2.If Any User Has Any Problem With The Bot Or Feels That The Bot Is Crashed Please Contact Support Immediately
+**Contact Us**
 
-3.We love Tell Any One Are Using A Bot We are responsible if anything happens to your server
+-If Any User Has Any Problem With The Bot Or Feels That The Bot Is Crashed Please Contact Support Immediately.
 
-4.Contact Information
-Country: Iraq
-Kurdistan in Erbil
-SmSm
+-We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
+
 Email: notzer0help@outlook.com
+OwnerTag: </SmSm>#8700
