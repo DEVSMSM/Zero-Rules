@@ -10,6 +10,15 @@
 
 -Monitor [User ID, Url(And Url For Uptime To Keep it Online)
 
+**__Why We Store Data ?__**
+
+**``User(member) data:``**
+
+-We Store User ID Because To So Someone Can Monitor Url
+
+- Data Stored On Mongodb 
+
+
 2.If any user has any problem with the bot or feels that the bot is crashed Please contact Support immediately
 
 3.We love Tell Any One Are Using A Bot We are responsible if anything happens to your server
