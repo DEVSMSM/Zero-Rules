@@ -32,7 +32,7 @@
 
 **Are We Sell Or Share Users Data ?**
 
--**No**, We Do Not Sell and Share Any Data Stored by ZeroHosting.
+-**No**, __We Do Not Sell and Share Any Data Stored by ZeroHosting__.
 
 2.If Any User Has Any Problem With The Bot Or Feels That The Bot Is Crashed Please Contact Support Immediately
 
