@@ -8,7 +8,7 @@
 
 -The ``userId`` is collecting all user data
 
--We Store xp for Level Of User 
+-We Store ``xp`` for ``Level`` Of User 
 
 **__Why We Store Data And Where We Store Data ?__**
 
