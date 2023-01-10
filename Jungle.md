@@ -20,7 +20,7 @@
 
 **__How Long We Store User Data ?__**
 
--According to the person who uses the bot, when will his Projects Links Be Deleted
+-According to the person who uses the bot
 
 -Or User Can Request To Deletion Data
 
@@ -32,13 +32,13 @@
 
 **Are We Sell Or Share Users Data ?**
 
--No, We Do Not Sell and Share Any Data Stored by ZeroHosting.
+-No, We Do Not Sell and Share Any Data Stored by Jungle.
 
 **Can Users Request Deletion Thier Data ?**
 
 -Yes, Users Can Any Time To Request Deletion Thier Data.
 
--Users Can Join Support Server Or Dm Me Or Contact With Email For Deletion Thier Data.
+-Users Can Join Support Server Or Dm Owner Or Contact With Email For Deletion Thier Data.
 
 **Contact Us**
 
