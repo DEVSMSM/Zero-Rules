@@ -47,7 +47,7 @@
 -We love Tell Any One Are Using A Bot We are responsible if anything happens to your server.
 
 Email: notzer0help@outlook.com
-Devs: ``</SmSm>#8700`` ``O²#1777``
+Devs: ``</SmSm>#8700`` ``Silenter.#1777``
 
 <a href="https://discord.gg/4Y8SyEU5K8"><img src="https://discord.com/api/guilds/869266167796207728/widget.png?style=banner2"></a>
 
