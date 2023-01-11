@@ -4,7 +4,7 @@
 
 **__What Data We Store ?__**
  
-**We Store ``userId`` for ``xp`` & ``level`` Of User**
+**We Just Store ``userId``**
 
 -The ``userId`` is collecting all user data
 
